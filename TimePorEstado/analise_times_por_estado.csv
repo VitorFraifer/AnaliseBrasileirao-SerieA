@@ -1,0 +1,203 @@
+temporada,estado,numero_de_times,times,media_pontos
+2003,BA,2,"Bahia, Vitoria",51.0
+2003,CE,1,Fortaleza,49.0
+2003,GO,1,Goias,65.0
+2003,MG,2,"Atletico-MG, Cruzeiro",86.0
+2003,PA,1,Paysandu,57.0
+2003,PR,3,"Athletico-PR, Coritiba, Parana",66.33
+2003,RJ,3,"Flamengo, Fluminense, Vasco",56.67
+2003,RS,3,"Gremio, Internacional, Juventude",56.67
+2003,SC,2,"Criciuma, Figueirense",62.5
+2003,SP,6,"Corinthians, Guarani, Ponte Preta, Santos, Sao Caetano, Sao Paulo",67.5
+2004,BA,1,Vitoria,48.0
+2004,GO,1,Goias,72.0
+2004,MG,2,"Atletico-MG, Cruzeiro",54.5
+2004,PA,1,Paysandu,56.0
+2004,PR,3,"Athletico-PR, Coritiba, Parana",67.33
+2004,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",56.5
+2004,RS,3,"Gremio, Internacional, Juventude",58.67
+2004,SC,2,"Criciuma, Figueirense",56.5
+2004,SP,7,"Corinthians, Guarani, Palmeiras, Ponte Preta, Santos, Sao Caetano, Sao Paulo",73.43
+2005,CE,1,Fortaleza,55.0
+2005,DF,1,Brasiliense,41.0
+2005,GO,1,Goias,74.0
+2005,MG,2,"Atletico-MG, Cruzeiro",53.5
+2005,PA,1,Paysandu,41.0
+2005,PR,3,"Athletico-PR, Coritiba, Parana",57.0
+2005,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",59.5
+2005,RS,2,"Internacional, Juventude",66.5
+2005,SC,1,Figueirense,53.0
+2005,SP,6,"Corinthians, Palmeiras, Ponte Preta, Santos, Sao Caetano, Sao Paulo",61.83
+2006,CE,1,Fortaleza,38.0
+2006,GO,1,Goias,55.0
+2006,MG,1,Cruzeiro,53.0
+2006,PE,1,Santa Cruz,28.0
+2006,PR,2,"Athletico-PR, Parana",54.0
+2006,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",51.75
+2006,RS,3,"Gremio, Internacional, Juventude",61.0
+2006,SC,1,Figueirense,57.0
+2006,SP,6,"Corinthians, Palmeiras, Ponte Preta, Santos, Sao Caetano, Sao Paulo",52.33
+2007,GO,1,Goias,45.0
+2007,MG,2,"Atletico-MG, Cruzeiro",57.5
+2007,PE,2,"Nautico, Sport",50.0
+2007,PR,2,"Athletico-PR, Parana",47.5
+2007,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",57.75
+2007,RN,1,America-RN,17.0
+2007,RS,3,"Gremio, Internacional, Juventude",51.0
+2007,SC,1,Figueirense,53.0
+2007,SP,4,"Corinthians, Palmeiras, Santos, Sao Paulo",60.25
+2008,BA,1,Vitoria,52.0
+2008,GO,1,Goias,53.0
+2008,MG,3,"Atletico-MG, Cruzeiro, Ipatinga",50.0
+2008,PE,2,"Nautico, Sport",48.0
+2008,PR,2,"Athletico-PR, Coritiba",49.0
+2008,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",50.5
+2008,RS,2,"Gremio, Internacional",63.0
+2008,SC,1,Figueirense,44.0
+2008,SP,4,"Palmeiras, Portuguesa, Santos, Sao Paulo",55.75
+2009,BA,1,Vitoria,48.0
+2009,GO,1,Goias,55.0
+2009,MG,2,"Atletico-MG, Cruzeiro",59.0
+2009,PE,2,"Nautico, Sport",34.5
+2009,PR,2,"Athletico-PR, Coritiba",46.5
+2009,RJ,3,"Botafogo-RJ, Flamengo, Fluminense",53.33
+2009,RS,2,"Gremio, Internacional",60.0
+2009,SC,1,Avai,57.0
+2009,SP,6,"Barueri, Corinthians, Palmeiras, Santo Andre, Santos, Sao Paulo",53.0
+2010,BA,1,Vitoria,42.0
+2010,CE,1,Ceara,47.0
+2010,GO,2,"Atletico-GO, Goias",37.5
+2010,MG,2,"Atletico-MG, Cruzeiro",57.0
+2010,PR,1,Athletico-PR,60.0
+2010,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",55.75
+2010,RS,2,"Gremio, Internacional",60.5
+2010,SC,1,Avai,43.0
+2010,SP,6,"Corinthians, Gremio Prudente, Guarani, Palmeiras, Santos, Sao Paulo",49.5
+2011,BA,1,Bahia,46.0
+2011,CE,1,Ceara,39.0
+2011,GO,1,Atletico-GO,48.0
+2011,MG,3,"America-MG, Atletico-MG, Cruzeiro",41.67
+2011,PR,2,"Athletico-PR, Coritiba",49.0
+2011,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",62.25
+2011,RS,2,"Gremio, Internacional",54.0
+2011,SC,2,"Avai, Figueirense",44.5
+2011,SP,4,"Corinthians, Palmeiras, Santos, Sao Paulo",58.25
+2012,BA,1,Bahia,47.0
+2012,GO,1,Atletico-GO,30.0
+2012,MG,2,"Atletico-MG, Cruzeiro",62.0
+2012,PE,2,"Nautico, Sport",45.0
+2012,PR,1,Coritiba,48.0
+2012,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",60.0
+2012,RS,2,"Gremio, Internacional",61.5
+2012,SC,1,Figueirense,30.0
+2012,SP,6,"Corinthians, Palmeiras, Ponte Preta, Portuguesa, Santos, Sao Paulo",50.5
+2013,BA,2,"Bahia, Vitoria",53.5
+2013,GO,1,Goias,59.0
+2013,MG,2,"Atletico-MG, Cruzeiro",66.5
+2013,PE,1,Nautico,20.0
+2013,PR,2,"Athletico-PR, Coritiba",56.0
+2013,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",50.0
+2013,RS,2,"Gremio, Internacional",56.5
+2013,SC,1,Criciuma,46.0
+2013,SP,5,"Corinthians, Ponte Preta, Portuguesa, Santos, Sao Paulo",48.4
+2014,BA,2,"Bahia, Vitoria",37.5
+2014,GO,1,Goias,47.0
+2014,MG,2,"Atletico-MG, Cruzeiro",71.0
+2014,PE,1,Sport,52.0
+2014,PR,2,"Athletico-PR, Coritiba",50.5
+2014,RJ,3,"Botafogo-RJ, Flamengo, Fluminense",49.0
+2014,RS,2,"Gremio, Internacional",65.0
+2014,SC,3,"Chapecoense, Criciuma, Figueirense",40.67
+2014,SP,4,"Corinthians, Palmeiras, Santos, Sao Paulo",58.0
+2015,GO,1,Goias,38.0
+2015,MG,2,"Atletico-MG, Cruzeiro",62.0
+2015,PE,1,Sport,59.0
+2015,PR,2,"Athletico-PR, Coritiba",47.5
+2015,RJ,3,"Flamengo, Fluminense, Vasco",45.67
+2015,RS,2,"Gremio, Internacional",64.0
+2015,SC,4,"Avai, Chapecoense, Figueirense, Joinville",40.75
+2015,SP,5,"Corinthians, Palmeiras, Ponte Preta, Santos, Sao Paulo",61.0
+2016,BA,1,Vitoria,45.0
+2016,MG,3,"America-MG, Atletico-MG, Cruzeiro",47.0
+2016,PE,2,"Santa Cruz, Sport",39.0
+2016,PR,2,"Athletico-PR, Coritiba",51.5
+2016,RJ,3,"Botafogo-RJ, Flamengo, Fluminense",60.0
+2016,RS,2,"Gremio, Internacional",48.0
+2016,SC,2,"Chapecoense, Figueirense",44.5
+2016,SP,5,"Corinthians, Palmeiras, Ponte Preta, Santos, Sao Paulo",62.2
+2017,BA,2,"Bahia, Vitoria",46.5
+2017,GO,1,Atletico-GO,36.0
+2017,MG,2,"Atletico-MG, Cruzeiro",55.5
+2017,PE,1,Sport,45.0
+2017,PR,2,"Athletico-PR, Coritiba",47.0
+2017,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",53.0
+2017,RS,1,Gremio,62.0
+2017,SC,2,"Avai, Chapecoense",48.5
+2017,SP,5,"Corinthians, Palmeiras, Ponte Preta, Santos, Sao Paulo",57.4
+2018,BA,2,"Bahia, Vitoria",42.5
+2018,CE,1,Ceara,44.0
+2018,MG,3,"America-MG, Atletico-MG, Cruzeiro",50.67
+2018,PE,1,Sport,42.0
+2018,PR,2,"Athletico-PR, Parana",40.0
+2018,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",52.75
+2018,RS,2,"Gremio, Internacional",67.5
+2018,SC,1,Chapecoense,44.0
+2018,SP,4,"Corinthians, Palmeiras, Santos, Sao Paulo",59.25
+2019,AL,1,CSA,32.0
+2019,BA,1,Bahia,49.0
+2019,CE,2,"Ceara, Fortaleza",46.0
+2019,GO,1,Goias,52.0
+2019,MG,2,"Atletico-MG, Cruzeiro",42.0
+2019,PR,1,Athletico-PR,64.0
+2019,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",57.0
+2019,RS,2,"Gremio, Internacional",61.0
+2019,SC,2,"Avai, Chapecoense",26.0
+2019,SP,4,"Corinthians, Palmeiras, Santos, Sao Paulo",66.75
+2020,BA,1,Bahia,28.0
+2020,CE,2,"Ceara, Fortaleza",33.5
+2020,GO,2,"Atletico-GO, Goias",28.5
+2020,MG,1,Atletico-MG,49.0
+2020,PE,1,Sport,29.0
+2020,PR,2,"Athletico-PR, Coritiba",27.5
+2020,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",35.0
+2020,RS,2,"Gremio, Internacional",46.0
+2020,SP,5,"Bragantino, Corinthians, Palmeiras, Santos, Sao Paulo",41.8
+2021,BA,1,Bahia,59.0
+2021,CE,2,"Ceara, Fortaleza",67.0
+2021,GO,2,"Atletico-GO, Goias",41.5
+2021,MG,2,"America-MG, Atletico-MG",78.0
+2021,MT,1,Cuiaba,47.0
+2021,PE,1,Sport,51.0
+2021,PR,2,"Athletico-PR, Coritiba",38.0
+2021,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",47.0
+2021,RS,3,"Gremio, Internacional, Juventude",58.0
+2021,SC,1,Chapecoense,15.0
+2021,SP,5,"Bragantino, Corinthians, Palmeiras, Santos, Sao Paulo",70.0
+2022,CE,2,"Ceara, Fortaleza",46.0
+2022,GO,2,"Atletico-GO, Goias",41.0
+2022,MG,2,"America-MG, Atletico-MG",55.5
+2022,MT,1,Cuiaba,41.0
+2022,PR,2,"Athletico-PR, Coritiba",50.0
+2022,RJ,3,"Botafogo-RJ, Flamengo, Fluminense",61.67
+2022,RS,2,"Internacional, Juventude",47.5
+2022,SC,1,Avai,35.0
+2022,SP,5,"Bragantino, Corinthians, Palmeiras, Santos, Sao Paulo",58.2
+2023,BA,1,Bahia,44.0
+2023,CE,1,Fortaleza,54.0
+2023,GO,1,Goias,38.0
+2023,MG,3,"America-MG, Atletico-MG, Cruzeiro",45.67
+2023,MT,1,Cuiaba,51.0
+2023,PR,2,"Athletico-PR, Coritiba",43.0
+2023,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",57.75
+2023,RS,2,"Gremio, Internacional",61.5
+2023,SP,5,"Bragantino, Corinthians, Palmeiras, Santos, Sao Paulo",55.6
+2024,BA,2,"Bahia, Vitoria",50.0
+2024,CE,1,Fortaleza,68.0
+2024,GO,1,Atletico-GO,30.0
+2024,MG,2,"Atletico-MG, Cruzeiro",49.5
+2024,MT,1,Cuiaba,30.0
+2024,PR,1,Athletico-PR,42.0
+2024,RJ,4,"Botafogo-RJ, Flamengo, Fluminense, Vasco",61.25
+2024,RS,3,"Gremio, Internacional, Juventude",51.67
+2024,SC,1,Criciuma,38.0
+2024,SP,4,"Bragantino, Corinthians, Palmeiras, Sao Paulo",58.0
